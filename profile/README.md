@@ -1,5 +1,5 @@
 
-# PoWx-Org Mission: Durable, Low Energy Bitcoin PoW
+# PoWx Mission: Durable, Low Energy Bitcoin PoW
 
 ## DISCLAIMER
 
