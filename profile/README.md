@@ -10,7 +10,7 @@
 
 ## Resources
 
-* Read [BIP 52](https://github.com/bitcoin/bips/blob/master/bip-0052.mediawiki) for a quick start
+* Read [BIP 52](https://github.com/bitcoin/bips/blob/master/bip-0052.mediawiki) for a quick start. Note that the proposal is to reduce the total hash rate, while keeping the total amount of computation approximately the same, rather than increase the hash rate.
 * [White paper](https://www.opticalbitcoin.com/wp-content/uploads/2021/12/White-Paper.pdf)
 * [oPoW FAQ](https://www.powx.org/opow)
 * [oPoW Hardware (work in progress)](https://github.com/PoWx-Org/hardware)
